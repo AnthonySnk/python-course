@@ -1,0 +1,27 @@
+PRIMERO DESCARGAMOS EL PIP.py 
+https://pip.pypa.io/en/stable/installing/
+
+INSTALAREMOS EL ENTORNO VIRTUAL
+- pip install virtualenv
+
+CREAMOS UNA CARPETA
+- mkdir servidor
+- virtualenv venv
+
+ACTIVAREMOS EL AMBIENTE DE DESARROLLO	
+- source venv/Scripts/activate
+
+ACTULIZAR 
+- python -m pip install --upgrade pip
+
+INSTALEREMOS LA LIBRERIA FLASK
+- python -m pip install flask
+- Ó 
+- pip install flask
+
+CREAMOS EL ARCHIVO DE REQUERIMIENTOS O VERSIONES
+- pip freeze > requirements.txt
+
+NOTA: PARA SABER SI TENEMOS INSTALADO UN COMANDO USAMOS 
+- which pip
+- which virtualenv
