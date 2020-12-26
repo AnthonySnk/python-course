@@ -1,0 +1,4 @@
+Estupendo dia para estudiar pyhton
+Esta linea ha sido incluida desde el exterior
+Seimpre es una buena ocación para aprender py
+Comienzo del texto

@@ -1,0 +1,6 @@
+servidor/lib
+servidor/venv
+DB/*.zip
+web_scraping/venv
+*.pdf
+*.csv

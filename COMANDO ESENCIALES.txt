@@ -11,6 +11,9 @@ CREAMOS UNA CARPETA
 ACTIVAREMOS EL AMBIENTE DE DESARROLLO	
 - source venv/Scripts/activate
 
+PARA INSTALAR LAS DEPENDENCIA EXISTENTES
+- pip install -r requirements.txt
+
 ACTULIZAR 
 - python -m pip install --upgrade pip
 
